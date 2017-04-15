@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Msrit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_edit_white_36dp.png",
+        "source": "D:\\Msrit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_edit_white_36dp.png"
+    },
+    {
+        "merged": "D:\\Msrit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Msrit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Msrit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_plus_one_black_36dp.png",
+        "source": "D:\\Msrit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_plus_one_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Msrit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_indeterminate_check_box_black_24dp.png",
+        "source": "D:\\Msrit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_indeterminate_check_box_black_24dp.png"
+    }
+]

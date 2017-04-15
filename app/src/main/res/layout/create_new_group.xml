@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroung"
+    android:contextClickable="true">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Group name"
+        android:maxLength="15"
+        android:id="@+id/group_name_set"
+        android:textColorLink="?attr/colorBackgroundFloating" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:maxLength="20"
+        android:id="@+id/password_set"
+        android:textColorLink="?attr/colorBackgroundFloating" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Admin name"
+        android:maxLength="12"
+        android:id="@+id/admin_name"
+        android:textColorLink="?attr/colorBackgroundFloating" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Admin password"
+        android:maxLength="5"
+        android:id="@+id/admin_password"
+        android:textColorLink="?attr/colorBackgroundFloating" />
+
+</LinearLayout>

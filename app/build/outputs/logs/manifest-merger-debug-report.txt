@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:2:1-139:12
+	package
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:6:5-8:23
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:12:5-137:19
+MERGED from [com.android.support:design:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.volley:volley:1.0.0] D:\Msrit\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:14:9-40
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.swaroop.msrit_am.MainActivity
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.swaroop.msrit_am.Login_form
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:31:13-39
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:30:13-39
+activity#com.example.swaroop.msrit_am.onlinebunk.online_bunk
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:38:13-40
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:37:13-51
+activity#com.example.swaroop.msrit_am.voting.VotePage
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:43:19-50
+activity#com.example.swaroop.msrit_am.voting.Votepage_intro_page
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:51:9-57:20
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:51:19-61
+activity#com.example.swaroop.msrit_am.offlinebunk.offline_bunk
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:59:9-65:20
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:59:19-59
+activity#com.example.swaroop.msrit_am.bunkSuggestions
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:67:9-73:20
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:67:19-50
+activity#com.example.swaroop.msrit_am.miscellaneous.credits
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:75:9-81:20
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:75:19-56
+activity#com.example.swaroop.msrit_am.webviewforsis.sisweb
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:83:9-89:20
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:83:19-55
+activity#com.example.swaroop.msrit_am.timetable.TimeTable
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:91:9-100:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:92:13-39
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:91:19-54
+activity#com.example.swaroop.msrit_am.timetable.getTimeTable
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:102:9-110:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:103:13-47
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:104:13-44
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:102:19-57
+activity#com.example.swaroop.msrit_am.miscellaneous.feedback
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:113:13-47
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:114:13-44
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:112:19-57
+activity#com.example.swaroop.msrit_am.timetable.addTimeTable
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:122:9-130:20
+	android:label
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:123:13-43
+	android:theme
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:122:19-57
+meta-data#com.google.android.gms.version
+ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:132:9-134:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:134:13-66
+	android:name
+		ADDED from D:\Msrit\app\src\main\AndroidManifest.xml:133:13-58
+uses-sdk
+INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.volley:volley:1.0.0] D:\Msrit\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\Msrit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Msrit\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] D:\Msrit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:79-124

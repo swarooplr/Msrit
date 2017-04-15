@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332897802972",
+    "firebase_url": "https://msritam-d58b1.firebaseio.com",
+    "project_id": "msritam-d58b1",
+    "storage_bucket": "msritam-d58b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332897802972:android:cf113b05c0b441a9",
+        "android_client_info": {
+          "package_name": "com.example.swaroop.msrit_am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332897802972-hk5f109u3kv437992epkjgmpqd0gt24g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwRpveKqDRkRNJVxzgH7skxLjIoEak_iQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332897802972-hk5f109u3kv437992epkjgmpqd0gt24g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

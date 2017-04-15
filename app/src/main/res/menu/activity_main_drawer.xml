@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/loginfeatures">
+        <item
+            android:id="@+id/login"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Login" />
+    </group>
+
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/timetablefeatures">
+        <item
+            android:id="@+id/addtt"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Add Time Table"/>
+
+        <item
+            android:id="@+id/gettt"
+
+            android:title="Get Time Table"
+            android:icon="?android:attr/actionModeSelectAllDrawable" />
+
+   </group>
+
+
+  <group
+      android:checkableBehavior="all"
+      android:id="@+id/miscellaneous">
+
+      <item
+          android:id="@+id/credits"
+          android:title="Credits and terms"/>
+
+      <item
+          android:id="@+id/help"
+          android:title="How do I use this?"/>
+
+      <item
+          android:id="@+id/feedback"
+          android:title="Feedback/Bug report"
+          />
+    </group>
+
+</menu>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/title"
+    tools:context="com.example.swaroop.msrit_am.voting.VotePage"
+    >
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+
+
+
+        <TextView
+            android:hint="Group name"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/Group_name"
+            android:textSize="40sp"
+            android:background="@color/cardview_light_background"
+            android:textColor="@color/colorAccent"
+            android:textColorHint="@color/colorAccent"
+            />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:textSize="20sp"
+                android:hint="Subject"
+                android:id="@+id/subject"
+                android:background="@color/cardview_light_background"
+                android:textColor="@color/colorAccent"
+                android:textColorHint="@color/colorAccent" />
+
+
+            <com.github.mikephil.charting.charts.PieChart
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+                android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:id="@+id/piechart">
+
+        </com.github.mikephil.charting.charts.PieChart>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Skip class!"
+                android:id="@+id/bunk"
+                android:textSize="20sp"
+                android:background="#68EFAD" />
+
+            <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DO NOT SKIP"
+            android:id="@+id/notbunk"
+            android:textSize="20sp"
+            android:background="#FF5252" />
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="ADD new subject"
+            android:id="@+id/add_new"
+            android:background="#9B26AF"
+            android:textColor="@android:color/background_light" />
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

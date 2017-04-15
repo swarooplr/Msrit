@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Msrit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Msrit\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Msrit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\msr_logo.png",
+        "source": "D:\\Msrit\\app\\src\\main\\res\\mipmap-hdpi\\msr_logo.png"
+    }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+
+        android:id="@+id/course_name"
+        android:hint="Course name"
+        android:maxLength="12"
+        android:textColor="@color/colorAccent" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:maxLength="3"
+        android:id="@+id/total_classes"
+        android:textColor="@color/colorAccent"
+        android:hint="Total classes"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:maxLength="2"
+        android:id="@+id/percentage"
+        android:textColor="@color/colorAccent"
+        android:hint="Minimum Percentage"/>
+
+
+</LinearLayout>

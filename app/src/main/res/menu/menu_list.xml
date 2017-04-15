@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="refresh"
+        android:id="@+id/refresh"
+
+        />
+    <item
+        android:title="group members"
+        android:id="@+id/gm"/>
+    <item
+        android:title="bunkers"
+        android:id="@+id/bu"
+        />
+    <item
+        android:title="non bunkers"
+        android:id="@+id/nb"
+        />
+
+</menu>
